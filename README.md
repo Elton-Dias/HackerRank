@@ -1,2 +1,0 @@
-# HackerRank
-My HackerRank Solutions
